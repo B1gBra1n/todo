@@ -1,0 +1,30 @@
+OPTION
+		create 
+			argument passed when desiring to create a new task
+			the user must enter informations.
+			Required fields must not be neglected
+		
+		update
+			gives the user the possibility to modify or update
+			informations about his task
+		
+		delete
+			gives the user the possibility to delete the entire 
+			task from the Task Manager
+			
+		showinfo
+			lists the content of a chosen task file
+			
+		listtask
+			lists all tasks stored in the Task Manager directory
+		
+		search
+			searches for the tasks that the user desire to check
+		
+		taskmanual
+			lists the task manual and arguments that are used in 
+			order to manipulate tasks 
+			
+		<no argument>
+			this will automatically list complete and incomplete 
+			tasks of the user
